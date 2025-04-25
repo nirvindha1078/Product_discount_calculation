@@ -1,0 +1,702 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Nokia 8910",
+        "product_brand": "Nokia",
+        "product_release_year": 2002,
+        "product_price": 30945
+    },
+    {
+        "product_id": 2,
+        "product_name": "LG Watch Urbane W150",
+        "product_brand": "LG",
+        "product_release_year": 2015,
+        "product_price": 21808
+    },
+    {
+        "product_id": 3,
+        "product_name": "Samsung J400",
+        "product_brand": "Samsung",
+        "product_release_year": 2008,
+        "product_price": 28717
+    },
+    {
+        "product_id": 4,
+        "product_name": "Sony Ericsson Z780",
+        "product_brand": "Sony",
+        "product_release_year": 2008,
+        "product_price": 45113
+    },
+    {
+        "product_id": 5,
+        "product_name": "Sewon SGD-1020",
+        "product_brand": "Sewon",
+        "product_release_year": 2004,
+        "product_price": 30056
+    },
+    {
+        "product_id": 6,
+        "product_name": "Philips Xenium 9@9u",
+        "product_brand": "Philips",
+        "product_release_year": 2008,
+        "product_price": 28538
+    },
+    {
+        "product_id": 7,
+        "product_name": "LG KT610",
+        "product_brand": "LG",
+        "product_release_year": 2008,
+        "product_price": 31115
+    },
+    {
+        "product_id": 8,
+        "product_name": "Samsung T700",
+        "product_brand": "Samsung",
+        "product_release_year": 0,
+        "product_price": 10369
+    },
+    {
+        "product_id": 9,
+        "product_name": "Samsung Galaxy Ace Duos S6802",
+        "product_brand": "Samsung",
+        "product_release_year": 2012,
+        "product_price": 45126
+    },
+    {
+        "product_id": 10,
+        "product_name": "Samsung Galaxy J5 Prime (2017)",
+        "product_brand": "Samsung",
+        "product_release_year": 0,
+        "product_price": 24536
+    },
+    {
+        "product_id": 11,
+        "product_name": "Huawei G6600 Passport",
+        "product_brand": "Huawei",
+        "product_release_year": 2010,
+        "product_price": 34420
+    },
+    {
+        "product_id": 12,
+        "product_name": "Motorola FIRE XT311",
+        "product_brand": "Motorola",
+        "product_release_year": 2011,
+        "product_price": 14368
+    },
+    {
+        "product_id": 13,
+        "product_name": "Motorola SLVR L9",
+        "product_brand": "Motorola",
+        "product_release_year": 2007,
+        "product_price": 24603
+    },
+    {
+        "product_id": 14,
+        "product_name": "LG 450",
+        "product_brand": "LG",
+        "product_release_year": 2014,
+        "product_price": 15856
+    },
+    {
+        "product_id": 15,
+        "product_name": "Lava Iris X1 Atom S",
+        "product_brand": "Lava",
+        "product_release_year": 2015,
+        "product_price": 26834
+    },
+    {
+        "product_id": 16,
+        "product_name": "LG G Vista 2",
+        "product_brand": "LG",
+        "product_release_year": 2015,
+        "product_price": 46007
+    },
+    {
+        "product_id": 17,
+        "product_name": "Xiaomi Mi 4 LTE",
+        "product_brand": "Xiaomi",
+        "product_release_year": 2014,
+        "product_price": 31917
+    },
+    {
+        "product_id": 18,
+        "product_name": "HP Slate6 VoiceTab II",
+        "product_brand": "HP",
+        "product_release_year": 2014,
+        "product_price": 38582
+    },
+    {
+        "product_id": 19,
+        "product_name": "Motorola C980",
+        "product_brand": "Motorola",
+        "product_release_year": 2004,
+        "product_price": 32809
+    },
+    {
+        "product_id": 20,
+        "product_name": "Sagem my300X",
+        "product_brand": "Sagem",
+        "product_release_year": 2005,
+        "product_price": 35470
+    },
+    {
+        "product_id": 21,
+        "product_name": "Tel.Me. T909",
+        "product_brand": "Tel.Me.",
+        "product_release_year": 0,
+        "product_price": 21288
+    },
+    {
+        "product_id": 22,
+        "product_name": "Micromax A77 Canvas Juice",
+        "product_brand": "Micromax",
+        "product_release_year": 2013,
+        "product_price": 38821
+    },
+    {
+        "product_id": 23,
+        "product_name": "ZTE nubia Z5S",
+        "product_brand": "ZTE",
+        "product_release_year": 2013,
+        "product_price": 39894
+    },
+    {
+        "product_id": 24,
+        "product_name": "Nokia N90",
+        "product_brand": "Nokia",
+        "product_release_year": 2005,
+        "product_price": 41669
+    },
+    {
+        "product_id": 25,
+        "product_name": "Yezz Art 1",
+        "product_brand": "Yezz",
+        "product_release_year": 2020,
+        "product_price": 10722
+    },
+    {
+        "product_id": 26,
+        "product_name": "Sony Xperia SP",
+        "product_brand": "Sony",
+        "product_release_year": 2013,
+        "product_price": 43753
+    },
+    {
+        "product_id": 27,
+        "product_name": "Tecno Phantom 9",
+        "product_brand": "Tecno",
+        "product_release_year": 2019,
+        "product_price": 33798
+    },
+    {
+        "product_id": 28,
+        "product_name": "Nokia C2-06",
+        "product_brand": "Nokia",
+        "product_release_year": 2011,
+        "product_price": 38114
+    },
+    {
+        "product_id": 29,
+        "product_name": "Nokia 8855",
+        "product_brand": "Nokia",
+        "product_release_year": 2002,
+        "product_price": 20044
+    },
+    {
+        "product_id": 30,
+        "product_name": "BenQ F3",
+        "product_brand": "BenQ",
+        "product_release_year": 2013,
+        "product_price": 40462
+    },
+    {
+        "product_id": 31,
+        "product_name": "T-Mobile Pulse",
+        "product_brand": "T-Mobile",
+        "product_release_year": 2009,
+        "product_price": 21991
+    },
+    {
+        "product_id": 32,
+        "product_name": "verykool i270",
+        "product_brand": "verykool",
+        "product_release_year": 2011,
+        "product_price": 29202
+    },
+    {
+        "product_id": 33,
+        "product_name": "Huawei Y6 (2018)",
+        "product_brand": "Huawei",
+        "product_release_year": 2018,
+        "product_price": 38228
+    },
+    {
+        "product_id": 34,
+        "product_name": "Samsung E1107 Crest Solar",
+        "product_brand": "Samsung",
+        "product_release_year": 2009,
+        "product_price": 11118
+    },
+    {
+        "product_id": 35,
+        "product_name": "Sony Xperia XA2 Plus",
+        "product_brand": "Sony",
+        "product_release_year": 2018,
+        "product_price": 22515
+    },
+    {
+        "product_id": 36,
+        "product_name": "LG K42",
+        "product_brand": "LG",
+        "product_release_year": 2020,
+        "product_price": 17003
+    },
+    {
+        "product_id": 37,
+        "product_name": "Lenovo Lemon 3",
+        "product_brand": "Lenovo",
+        "product_release_year": 2016,
+        "product_price": 43271
+    },
+    {
+        "product_id": 38,
+        "product_name": "Realme X50 5G",
+        "product_brand": "Realme",
+        "product_release_year": 2020,
+        "product_price": 28236
+    },
+    {
+        "product_id": 39,
+        "product_name": "Plum Z708",
+        "product_brand": "Plum",
+        "product_release_year": 2014,
+        "product_price": 25232
+    },
+    {
+        "product_id": 40,
+        "product_name": "Apple Watch Edition Series 3",
+        "product_brand": "Apple",
+        "product_release_year": 2017,
+        "product_price": 13227
+    },
+    {
+        "product_id": 41,
+        "product_name": "Lenovo Vibe X3",
+        "product_brand": "Lenovo",
+        "product_release_year": 2015,
+        "product_price": 26434
+    },
+    {
+        "product_id": 42,
+        "product_name": "i-mobile i858",
+        "product_brand": "i-mobile",
+        "product_release_year": 2010,
+        "product_price": 22711
+    },
+    {
+        "product_id": 43,
+        "product_name": "Vodafone Smart 4G",
+        "product_brand": "Vodafone",
+        "product_release_year": 2014,
+        "product_price": 29924
+    },
+    {
+        "product_id": 44,
+        "product_name": "Innostream INNO 78",
+        "product_brand": "Innostream",
+        "product_release_year": 2004,
+        "product_price": 47159
+    },
+    {
+        "product_id": 45,
+        "product_name": "XOLO Win Q900s",
+        "product_brand": "XOLO",
+        "product_release_year": 2014,
+        "product_price": 40902
+    },
+    {
+        "product_id": 46,
+        "product_name": "alcatel OT-E265",
+        "product_brand": "alcatel",
+        "product_release_year": 2006,
+        "product_price": 13578
+    },
+    {
+        "product_id": 47,
+        "product_name": "ZTE Open II",
+        "product_brand": "ZTE",
+        "product_release_year": 2014,
+        "product_price": 17878
+    },
+    {
+        "product_id": 48,
+        "product_name": "Samsung C170",
+        "product_brand": "Samsung",
+        "product_release_year": 2007,
+        "product_price": 43462
+    },
+    {
+        "product_id": 49,
+        "product_name": "Samsung Galaxy Core Plus",
+        "product_brand": "Samsung",
+        "product_release_year": 2013,
+        "product_price": 24154
+    },
+    {
+        "product_id": 50,
+        "product_name": "BLU Studio Mini LTE",
+        "product_brand": "BLU",
+        "product_release_year": 2014,
+        "product_price": 21960
+    },
+    {
+        "product_id": 51,
+        "product_name": "ZTE nubia Z5",
+        "product_brand": "ZTE",
+        "product_release_year": 2012,
+        "product_price": 24569
+    },
+    {
+        "product_id": 52,
+        "product_name": "Allview P8 Pro",
+        "product_brand": "Allview",
+        "product_release_year": 2018,
+        "product_price": 33098
+    },
+    {
+        "product_id": 53,
+        "product_name": "Micromax A300 Canvas Gold",
+        "product_brand": "Micromax",
+        "product_release_year": 2014,
+        "product_price": 37005
+    },
+    {
+        "product_id": 54,
+        "product_name": "i-mate JAMin",
+        "product_brand": "i-mate",
+        "product_release_year": 2006,
+        "product_price": 17673
+    },
+    {
+        "product_id": 55,
+        "product_name": "Huawei MediaPad M2 7.0",
+        "product_brand": "Huawei",
+        "product_release_year": 2016,
+        "product_price": 45910
+    },
+    {
+        "product_id": 56,
+        "product_name": "HTC A12",
+        "product_brand": "HTC",
+        "product_release_year": 0,
+        "product_price": 29574
+    },
+    {
+        "product_id": 57,
+        "product_name": "BLU Neo X LTE",
+        "product_brand": "BLU",
+        "product_release_year": 2016,
+        "product_price": 28128
+    },
+    {
+        "product_id": 58,
+        "product_name": "Allview P6 Energy Lite",
+        "product_brand": "Allview",
+        "product_release_year": 2016,
+        "product_price": 37932
+    },
+    {
+        "product_id": 59,
+        "product_name": "Samsung P960",
+        "product_brand": "Samsung",
+        "product_release_year": 2008,
+        "product_price": 48445
+    },
+    {
+        "product_id": 60,
+        "product_name": "Micromax Canvas A1 AQ4502",
+        "product_brand": "Micromax",
+        "product_release_year": 2015,
+        "product_price": 14364
+    },
+    {
+        "product_id": 61,
+        "product_name": "Nokia 3109 classic",
+        "product_brand": "Nokia",
+        "product_release_year": 2007,
+        "product_price": 48889
+    },
+    {
+        "product_id": 62,
+        "product_name": "Intex Aqua Ace",
+        "product_brand": "Intex",
+        "product_release_year": 2015,
+        "product_price": 32369
+    },
+    {
+        "product_id": 63,
+        "product_name": "Blackview A10",
+        "product_brand": "Blackview",
+        "product_release_year": 2017,
+        "product_price": 20082
+    },
+    {
+        "product_id": 64,
+        "product_name": "ZTE Blade A7s 2020",
+        "product_brand": "ZTE",
+        "product_release_year": 2020,
+        "product_price": 16039
+    },
+    {
+        "product_id": 65,
+        "product_name": "LG GD330",
+        "product_brand": "LG",
+        "product_release_year": 2009,
+        "product_price": 29163
+    },
+    {
+        "product_id": 66,
+        "product_name": "T-Mobile Sidekick LX",
+        "product_brand": "T-Mobile",
+        "product_release_year": 2007,
+        "product_price": 12924
+    },
+    {
+        "product_id": 67,
+        "product_name": "LG A180",
+        "product_brand": "LG",
+        "product_release_year": 2011,
+        "product_price": 26218
+    },
+    {
+        "product_id": 68,
+        "product_name": "Nokia N79",
+        "product_brand": "Nokia",
+        "product_release_year": 2008,
+        "product_price": 29239
+    },
+    {
+        "product_id": 69,
+        "product_name": "Samsung Galaxy S20 Ultra",
+        "product_brand": "Samsung",
+        "product_release_year": 2020,
+        "product_price": 29985
+    },
+    {
+        "product_id": 70,
+        "product_name": "Bird D680",
+        "product_brand": "Bird",
+        "product_release_year": 0,
+        "product_price": 30321
+    },
+    {
+        "product_id": 71,
+        "product_name": "Lava Z91 (2GB)",
+        "product_brand": "Lava",
+        "product_release_year": 2018,
+        "product_price": 20405
+    },
+    {
+        "product_id": 72,
+        "product_name": "alcatel OT 535",
+        "product_brand": "alcatel",
+        "product_release_year": 2003,
+        "product_price": 27735
+    },
+    {
+        "product_id": 73,
+        "product_name": "Acer Liquid E3",
+        "product_brand": "Acer",
+        "product_release_year": 2014,
+        "product_price": 41245
+    },
+    {
+        "product_id": 74,
+        "product_name": "Plum Coach Pro",
+        "product_brand": "Plum",
+        "product_release_year": 2015,
+        "product_price": 11730
+    },
+    {
+        "product_id": 75,
+        "product_name": "Motorola SLVR L9",
+        "product_brand": "Motorola",
+        "product_release_year": 2007,
+        "product_price": 39133
+    },
+    {
+        "product_id": 76,
+        "product_name": "alcatel Hero 2",
+        "product_brand": "alcatel",
+        "product_release_year": 2014,
+        "product_price": 26810
+    },
+    {
+        "product_id": 77,
+        "product_name": "Icemobile Rainbow",
+        "product_brand": "Icemobile",
+        "product_release_year": 2011,
+        "product_price": 44508
+    },
+    {
+        "product_id": 78,
+        "product_name": "Icemobile Viento II",
+        "product_brand": "Icemobile",
+        "product_release_year": 2011,
+        "product_price": 12400
+    },
+    {
+        "product_id": 79,
+        "product_name": "Archos Diamond 2 Plus",
+        "product_brand": "Archos",
+        "product_release_year": 2016,
+        "product_price": 14604
+    },
+    {
+        "product_id": 80,
+        "product_name": "verykool s735",
+        "product_brand": "verykool",
+        "product_release_year": 2012,
+        "product_price": 40397
+    },
+    {
+        "product_id": 81,
+        "product_name": "vivo Y19",
+        "product_brand": "vivo",
+        "product_release_year": 2019,
+        "product_price": 31466
+    },
+    {
+        "product_id": 82,
+        "product_name": "Nokia X2 Dual SIM",
+        "product_brand": "Nokia",
+        "product_release_year": 2014,
+        "product_price": 37830
+    },
+    {
+        "product_id": 83,
+        "product_name": "Vodafone Smart Tab III 10.1",
+        "product_brand": "Vodafone",
+        "product_release_year": 2013,
+        "product_price": 39338
+    },
+    {
+        "product_id": 84,
+        "product_name": "Xiaomi Mi Note 10 Pro",
+        "product_brand": "Xiaomi",
+        "product_release_year": 2019,
+        "product_price": 10229
+    },
+    {
+        "product_id": 85,
+        "product_name": "Nokia 6103",
+        "product_brand": "Nokia",
+        "product_release_year": 2006,
+        "product_price": 20821
+    },
+    {
+        "product_id": 86,
+        "product_name": "verykool s5037 Apollo Quattro",
+        "product_brand": "verykool",
+        "product_release_year": 2018,
+        "product_price": 24414
+    },
+    {
+        "product_id": 87,
+        "product_name": "MWg Atom V",
+        "product_brand": "MWg",
+        "product_release_year": 2008,
+        "product_price": 31895
+    },
+    {
+        "product_id": 88,
+        "product_name": "Samsung C300",
+        "product_brand": "Samsung",
+        "product_release_year": 2006,
+        "product_price": 30651
+    },
+    {
+        "product_id": 89,
+        "product_name": "ZTE Light Tab 300",
+        "product_brand": "ZTE",
+        "product_release_year": 2012,
+        "product_price": 48067
+    },
+    {
+        "product_id": 90,
+        "product_name": "Samsung Xcover 271",
+        "product_brand": "Samsung",
+        "product_release_year": 2010,
+        "product_price": 33543
+    },
+    {
+        "product_id": 91,
+        "product_name": "Acer Iconia B1-721",
+        "product_brand": "Acer",
+        "product_release_year": 2014,
+        "product_price": 13912
+    },
+    {
+        "product_id": 92,
+        "product_name": "Samsung Galaxy Beam2",
+        "product_brand": "Samsung",
+        "product_release_year": 2014,
+        "product_price": 20957
+    },
+    {
+        "product_id": 93,
+        "product_name": "Maxwest MX-100",
+        "product_brand": "Maxwest",
+        "product_release_year": 2013,
+        "product_price": 19406
+    },
+    {
+        "product_id": 94,
+        "product_name": "Huawei Ascend G630",
+        "product_brand": "Huawei",
+        "product_release_year": 2014,
+        "product_price": 25520
+    },
+    {
+        "product_id": 95,
+        "product_name": "Sony Tablet S",
+        "product_brand": "Sony",
+        "product_release_year": 2011,
+        "product_price": 44791
+    },
+    {
+        "product_id": 96,
+        "product_name": "Motorola MT810lx",
+        "product_brand": "Motorola",
+        "product_release_year": 2010,
+        "product_price": 39736
+    },
+    {
+        "product_id": 97,
+        "product_name": "Nokia Lumia 710",
+        "product_brand": "Nokia",
+        "product_release_year": 2011,
+        "product_price": 27512
+    },
+    {
+        "product_id": 98,
+        "product_name": "Nokia 6080",
+        "product_brand": "Nokia",
+        "product_release_year": 2006,
+        "product_price": 26138
+    },
+    {
+        "product_id": 99,
+        "product_name": "Motorola MILESTONE 2",
+        "product_brand": "Motorola",
+        "product_release_year": 2010,
+        "product_price": 48725
+    },
+    {
+        "product_id": 100,
+        "product_name": "alcatel Mandarina Duck Moon",
+        "product_brand": "alcatel",
+        "product_release_year": 2008,
+        "product_price": 36751
+    }
+]

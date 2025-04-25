@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp3.1</TargetFramework>
+		<RootNamespace>Product_discount_calculation_task</RootNamespace>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Folder Include="Data\" />
+		
+		<None Update="Data\products.json">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+
+</Project>
